@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ResimKaydirma_x</string>
+    <string name="kapat">Kapat</string>
+    <string name="ana_sayfa">Ana Sayfa</string>
+    <string name="paylas">Paylaş</string>
+
+    <string name="todo">TODO</string>
+    <item name="fab_label" type="id"/>
+
+    <string name="uygulama_link_0">https://play.google.com/store/apps/details?id=com.ossmatematik.ygs</string>
+    <string name="uygulama_link_1">https://play.google.com/store/apps/details?id=com.ossmatematik.formuller</string>
+
+    <string name="uygulama_baslik_0">Matematik-Geometri FORMÜLLERİ</string>
+    <string name="uygulama_baslik_1">DİĞER PROGRAMLARIMIZ</string>
+    <string name="uygulama_baslik_2">.: Matematik-Geometri FORMÜLLERİ :.</string>
+    <string name="uygulama_baslik_3">.: DİĞER :. \n  .: PROGRAMLARIMIZ :. </string>
+
+
+    <string name="uygulama_app_name">Mobil Uygulamalarımız</string>
+    <string name="uygulama_action_settings">Ayarlar</string>
+    <string name="uygulama_action_add_favourite">Ayrıntı</string>
+    <string name="uygulama_action_play_next">Ayrıntı</string>
+    <string name="uygulama_backdrop_title">Mobil Uygulamalarımız</string>
+    <string name="uygulama_backdrop_subtitle">Hepsi Ücretsiz</string>
+
+</resources>

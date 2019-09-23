@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/uygulama_bosluk_1"
+        android:layout_marginRight="@dimen/uygulama_bosluk_1"
+        android:background="@drawable/uygulama_bg_matematik"
+        android:text="@string/uygulama_baslik_2"
+        android:textColor="@color/uyari_textColor_1"
+        android:textSize="@dimen/uygulama_textsize_1"
+        android:typeface="serif"
+        tools:ignore="ButtonStyle,HardcodedText" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/uygulama_bosluk_1"
+        android:layout_marginRight="@dimen/uygulama_bosluk_1"
+        android:layout_marginTop="@dimen/uygulama_bosluk_2"
+        android:background="@drawable/uygulama_bg_uygulamalarimiz"
+        android:text="@string/uygulama_baslik_3"
+        android:textColor="@color/uyari_textColor_1"
+        android:textSize="@dimen/uygulama_textsize_1"
+        android:typeface="serif"
+        tools:ignore="HardcodedText,InefficientWeight,NestedWeights,ObsoleteLayoutParam,UnusedAttribute" />
+
+</LinearLayout>
